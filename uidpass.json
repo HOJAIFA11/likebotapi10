@@ -1,0 +1,10 @@
+[
+    {
+        "uid": "5080072830",
+        "password": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTkxMjk2MzUzOSwibmlja25hbWUiOiJlU3AvZVhCK0lpVWtlaXN5Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjAxMTAwMTRiNWI2MDY2MTc0YWY2ZGM2YjY4MjA1ZTdhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MCwiY2xpZW50X3ZlcnNpb24iOiIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjUwODAwNzI4MzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjoxNzgwNTA2ODA2LCJjbGllbnRfdHlwZSI6MSwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjAsInJlbGVhc2VfY2hhbm5lbCI6IiIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTQiLCJleHAiOjE3ODI5NTE1NDd9.-fqfzh-nqan4LwD9Avfi9dKj-wrN-Oz7p-GuTzwqiYQ"
+    },
+    {
+        "uid": "guest uid 2",
+        "password": "guest password 2"
+    }
+]
